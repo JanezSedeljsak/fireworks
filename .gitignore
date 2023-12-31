@@ -1,0 +1,18 @@
+# Generated files
+/target/
+
+# IDE files
+/.vscode/
+.idea/
+
+# Dependency directories
+/vendor/
+/.cargo/
+
+# Build artifacts
+Cargo.lock
+*.rs.bk
+
+# Environment files
+.env
+.env.*
